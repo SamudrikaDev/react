@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 // Single div rendering
 // const heading = React.createElement("h1", {id:"head1"}, "Hello World Maa sarala");
@@ -5,7 +7,6 @@
 // root.render(heading);
 
 // ***** nested html rendering ****/
-
 
 // Create element
 const parent = React.createElement
